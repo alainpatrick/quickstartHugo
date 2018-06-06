@@ -1,0 +1,18 @@
+languageCode = "en-us"
+title = "Cocoon Rwanda"
+baseURL = "http://localhost:1313/"
+theme = "dopetrope"
+
+[params.portfolio]
+    title = "Current"
+    foldername = "appartments"
+    findoutmoretext = "Find out more"
+
+[params.blog]
+    title = "All Houses"
+    viewalltext = "View All"
+    foldername = "houses"
+
+[params.settings]
+    googleanalytics = "UA-XXXXXXXXX-X"
+    disqus = "hugo-dopetrope"
