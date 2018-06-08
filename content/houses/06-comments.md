@@ -7,6 +7,5 @@ title = "Comment Example"
 slug = "comment-example"
 author = "John Smith"
 draft = false
-disqusid = "6"
 +++
 Example of a post with comments using Disqus.

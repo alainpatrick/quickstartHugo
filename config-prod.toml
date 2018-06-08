@@ -15,4 +15,3 @@ theme = "dopetrope"
 
 [params.settings]
     googleanalytics = "UA-XXXXXXXXX-X"
-    disqus = "hugo-dopetrope"

@@ -7,6 +7,5 @@ title = "Old post"
 slug = "old-post-1"
 author = "John Smith"
 draft = false
-disqusid = "7"
 +++
 Old post to show pagination
