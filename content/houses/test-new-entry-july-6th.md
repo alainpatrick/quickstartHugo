@@ -4,6 +4,7 @@ description: Test new entry July 6th
 date: '2018-07-06T00:40:48+02:00'
 slug: test-new-entry-july-6th
 draft: true
+format: toml
 categories:
   - Houses
 keywords:
