@@ -4,12 +4,12 @@ baseURL = "https://wonderful-morse-8be60f.netlify.com/"
 theme = "dopetrope"
 
 [params.portfolio]
-    title = "Current"
+    title = "Appartments"
     foldername = "appartments"
     findoutmoretext = "Find out more"
 
 [params.blog]
-    title = "All Houses"
+    title = "Houses"
     viewalltext = "View All"
     foldername = "houses"
 
