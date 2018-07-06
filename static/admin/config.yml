@@ -12,12 +12,10 @@ collections:
   - name: "houses" # Used in routes, e.g., /admin/collections/posts
     label: "Houses" # Used in the UI
     folder: "content/houses" # The path to the folder where the documents are stored
-    filter: {field: "property", value: "house"}
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Property Type", name: "property", widget: "select", options: ["house", "appartment"]}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "boolean", default: false}
       - {label: "Description", name: "description", required: true, widget: "list"}
@@ -29,12 +27,10 @@ collections:
   - name: "appartments" # Used in routes, e.g., /admin/collections/posts
     label: "Appartments" # Used in the UI
     folder: "content/appartments" # The path to the folder where the documents are stored
-    filter: {field: "property", value: "appartment"}
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Property Type", name: "property", widget: "select", options: ["house", "appartment"]}
       - {label: "Publish Date", name: "date", required: false, widget: "datetime"}
       - {label: "Draft", name: "draft", required: false, widget: "boolean", default: false}
       - {label: "Description", name: "description", required: true, widget: "list"}
