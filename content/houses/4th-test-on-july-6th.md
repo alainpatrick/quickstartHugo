@@ -4,7 +4,7 @@ date: '2018-07-06T02:02:26+02:00'
 draft: false
 description:
   - 4th test on July 6th
-thumbnail: /images/uploads/housetolet_468x428.jpg
+thumbnail: /images/pic08.jpg
 image: /images/uploads/housetolet_468x428.jpg
 ---
 What a journey to et everythng correct.
