@@ -27,8 +27,8 @@ collections:
         widget: "list",
         optional: true,
         fields:
-          - {label: "Title", name: "imgTitle", widget: "string"}
-          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Title", name: "imgTitle", widget: "string"},
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"},
           - {label: "Description", name: "imgDesc", widget: "string"}
         }
       - {label: "Body", name: "body", widget: "markdown"}
