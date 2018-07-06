@@ -4,7 +4,7 @@ date: '2018-07-06T02:55:15+02:00'
 draft: false
 description:
   - 1st true appartment in appartment folder
-thumbnail: /images/pic08.jpg
+thumbnail: /images/pic01.jpg
 image: /images/uploads/housetolet_468x428.jpg
 ---
 I hope this one works as well.
